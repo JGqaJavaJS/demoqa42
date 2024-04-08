@@ -17,7 +17,6 @@ public class FirstTest {
 
     @Test
     public void testElementsPage() {
-        // TODO with webdrivermanager
         //WebDriver driver = new FirefoxDriver();
         //----------------- with WebDriverManager
         WebDriver driver;

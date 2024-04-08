@@ -14,15 +14,15 @@ import java.time.Duration;
 
 public class ConfigManager {
 
-    private WebDriver driver;
+    private static WebDriver driver;
 
-    public WebDriver getDriver() {
+    public static WebDriver getDriver() {
         return driver;
     }
 
     @BeforeSuite
     @Parameters("browser")
-    public void setUp(@Optional("chrome") String browser){
+    public static void setUp(@Optional("chrome") String browser){
         if(browser.equalsIgnoreCase("chrome")){
             WebDriverManager.chromedriver().setup();
             ChromeOptions options = new ChromeOptions();
@@ -40,13 +40,14 @@ public class ConfigManager {
         }
         else {throw new IllegalArgumentException("Invalid browser value : "+browser);}
         //driver = getDriver();
+        driver.navigate().to("https://demoqa.com/");
         driver.manage().window().maximize();
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
     }
 
     @AfterSuite
-    public void tearDown(){
+    public static void tearDown(){
         if(driver != null){
             driver.quit();
         }
