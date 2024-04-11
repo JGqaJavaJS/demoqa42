@@ -5,6 +5,7 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.List;
 
@@ -53,6 +54,12 @@ public class BasePage {
 
     public void navigateToMainPage() {
         config.getDriver().navigate().to("https://demoqa.com/");
+    }
+
+    public void jsScrollToElement(By by) {
+        JavascriptExecutor js = (JavascriptExecutor) ConfigManager.getDriver();
+        WebElement element = findElementBase(by);
+        js.executeScript("arguments[0].scrollIntoView(true);", element);
     }
 
     // Alerts -------------------------------------------

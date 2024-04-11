@@ -4,53 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="upd ConfigManager">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/076280a4-34bf-4e7a-a19e-a1c313800608-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/09e76382-2029-4634-aa5f-00cfc687f10b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0f470917-c110-4cc0-9083-99c6ec3dbe46-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1142555e-7ba0-487f-ae11-3b6fa9e33c8c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1c95fb55-1a3a-4171-979a-cc45dca5abef-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1cad7cf3-9795-4c3d-83f7-457cd974a21b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2507f8d2-9048-4056-9287-8230ed804e71-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3616647b-4e86-4153-98b0-f314f0b83c26-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/383c9e04-3145-4b53-a4d7-1ca420513c70-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3b5c099e-3ff1-441b-926d-e281099cf728-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/44a1bbb9-78c1-4f15-b8c4-1851f122723d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/47eb1800-01ae-4374-bf1a-ea3d68284102-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/49f2385a-7e1d-4eab-b9b3-c7c1e3e97ee0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5dacc031-cfaf-4288-9417-3c6ca7882aaa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6be0213a-5eef-4bdd-8ec9-6a88e7ab00b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ee72f63-ae54-4f1e-8651-8c2bc669f5cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/709855d0-54d6-45f8-9a80-ccea4f223d6a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7b706c86-5857-4395-8d0e-a22a12b85736-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7ba0d259-51b9-4dbb-9184-1f6596e95a20-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8039fc9d-01fd-42fc-962c-d3d65916f2e5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/84c26f79-8aaf-4687-b9ed-7653da0eaf50-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8f562ee4-4368-426c-9c86-c2df7fb133c9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9024797c-d61e-46e7-b4f6-6d58c4a9b3d7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/961c9b1e-45f2-488c-8dcb-a7bf057825b8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9a6377ba-f996-43a2-a259-039e7481bd51-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9e1f1404-02e2-4332-90f8-8afa42f1a79c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b8cf46ad-269e-448c-8e2d-a23f61e73160-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/becf9846-f4a7-4d4b-b0f1-a2bd6f26b0da-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c73fd47e-ba05-4aa0-8840-77396d4b7a5d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d2a4042a-a50a-4f8c-95b5-1b888999c363-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d3cc4df3-f4ac-4856-aad0-cc2ecec0ecdd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d6014884-7859-482d-9ce9-457c2dc378f6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d7fd04a7-51f5-401c-9f58-2aaa128c6567-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e738fd7e-7104-454b-a8fa-cfb3000f7c0e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e7513676-69cb-4e8a-8edb-d547a9284d4b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb921370-6a9c-4dc5-b304-fcee0e9a3422-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ff7fef9f-d95d-4cb7-9c0f-8fd6d1cbe69c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ElementsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ElementsPageTests.java" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="alerts">
+      <change afterPath="$PROJECT_DIR$/allure-results/015ef053-b9b0-4750-80be-781a9991ac72-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/045921c0-7383-4439-ba06-849616f92cf6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12836e21-e231-4ed6-a057-63ed6b3cc2ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14c714e6-9e22-4b95-8800-0ac568ab3bcb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d4ce7fe-100d-4d01-be80-89b4aac10ecb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/572bfc34-67f6-4f39-b5f3-9b41a2d04581-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5756a2cd-58f9-47be-a69a-6b78632240af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/63b1f5e5-37a4-407c-be17-1518c9695c21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7746d09e-bc5e-4082-92a2-ff72ad417afe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/861ad562-2d95-4934-8722-7a3d8c32525a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91bb3392-6996-446d-bd4c-2ceda2ccf9b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d17eb021-7797-4eaf-a91b-d7a8a1ab5615-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dbb0dbe5-d72d-42b4-b938-d60e70bcf823-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/config/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/ConfigManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hardcoding/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hardcoding/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AlertsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AlertsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +57,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AlertsTests.testAlert.executor": "Run",
+    "TestNG.AlertsTests.testAlertPrompt.executor": "Run",
     "TestNG.ElementsPageTests.executor": "Run",
     "TestNG.ElementsPageTests.textBoxTextTest.executor": "Run",
     "TestNG.ElementsPageTests.urlTest.executor": "Run",
@@ -95,16 +69,39 @@
     "onboarding.tips.debug.path": "/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.ElementsPageTests">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RunManager" selected="TestNG.AlertsTests.testAlertPrompt">
+    <configuration name="AlertsTests.testAlert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AlertsTests" />
+      <option name="METHOD_NAME" value="testAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertsTests.testAlertPrompt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoqa42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AlertsTests" />
+      <option name="METHOD_NAME" value="testAlertPrompt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,31 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.testElementsPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoqa42" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.hardcoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.hardcoding" />
-      <option name="MAIN_CLASS_NAME" value="tests.hardcoding.FirstTest" />
-      <option name="METHOD_NAME" value="testElementsPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AlertsTests.testAlertPrompt" />
+        <item itemvalue="TestNG.AlertsTests.testAlert" />
         <item itemvalue="TestNG.ElementsPageTests" />
         <item itemvalue="TestNG.ElementsPageTests.textBoxTextTest" />
         <item itemvalue="TestNG.ElementsPageTests.urlTest" />
-        <item itemvalue="TestNG.FirstTest.testElementsPage" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +217,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712590630114</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upd elementsPage">
+      <option name="closed" value="true" />
+      <created>1712595798757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712595798757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="alerts">
+      <option name="closed" value="true" />
+      <created>1712854013929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712854013929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +242,8 @@
     <MESSAGE value="testElementsPage" />
     <MESSAGE value="upd WebDriverManager" />
     <MESSAGE value="upd ConfigManager" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd ConfigManager" />
+    <MESSAGE value="upd elementsPage" />
+    <MESSAGE value="alerts" />
+    <option name="LAST_COMMIT_MESSAGE" value="alerts" />
   </component>
 </project>
