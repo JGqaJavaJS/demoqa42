@@ -1,6 +1,7 @@
 package pages;
 
 import config.ConfigManager;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
@@ -53,4 +54,28 @@ public class BasePage {
     public void navigateToMainPage() {
         config.getDriver().navigate().to("https://demoqa.com/");
     }
+
+    // Alerts -------------------------------------------
+
+    public void alertClickOk() {
+        Alert alert = ConfigManager.getDriver().switchTo().alert();
+        alert.accept();
+    }
+
+    public void alertClickDismiss() {
+        Alert alert = ConfigManager.getDriver().switchTo().alert();
+        alert.dismiss();
+    }
+
+    public String alertGetText() {
+        Alert alert = ConfigManager.getDriver().switchTo().alert();
+        return alert.getText().trim();
+    }
+
+    public void alertSendKeys(String str) {
+        Alert alert = ConfigManager.getDriver().switchTo().alert();
+        alert.sendKeys(str);
+    }
+
+    // --------------------------------------------------
 }
