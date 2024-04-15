@@ -4,23 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="alerts">
-      <change afterPath="$PROJECT_DIR$/allure-results/015ef053-b9b0-4750-80be-781a9991ac72-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/045921c0-7383-4439-ba06-849616f92cf6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/12836e21-e231-4ed6-a057-63ed6b3cc2ce-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/14c714e6-9e22-4b95-8800-0ac568ab3bcb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1d4ce7fe-100d-4d01-be80-89b4aac10ecb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/572bfc34-67f6-4f39-b5f3-9b41a2d04581-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5756a2cd-58f9-47be-a69a-6b78632240af-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/63b1f5e5-37a4-407c-be17-1518c9695c21-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7746d09e-bc5e-4082-92a2-ff72ad417afe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/861ad562-2d95-4934-8722-7a3d8c32525a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/91bb3392-6996-446d-bd4c-2ceda2ccf9b1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d17eb021-7797-4eaf-a91b-d7a8a1ab5615-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dbb0dbe5-d72d-42b4-b938-d60e70bcf823-result.json" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="alert prompt and scroll js">
+      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1ad75bf104d5eda5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8d00b2e814d4d80f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e522efb7b4ed5922.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14097365-7450-4dbe-aa2d-251a3c24e47b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/35f3c78e-81fb-4d32-ae06-04a692432b4d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43159470-f879-4dab-afdb-24ae08ac2cb5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6601b75d-fa14-41f6-8cff-b260188c984e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67cc3caf-184d-40c1-b861-6578ec92cb40-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68822ea1-9d8a-4df7-a081-cd09ecff9fd7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7437f7b7-ec2e-4ad8-a47b-3649434b53b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/911dee97-4a65-407e-95fe-03b3863f43a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c91a06f-e233-4e5e-8e9f-b513d08bf125-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb6909ba-84a3-484d-9a3a-77d976469da5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f4c8eb03-4da7-4e3e-8037-b58048e704ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7841a8d-dd21-4f12-8fb9-38048dc6f032-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AlertsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AlertsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" afterDir="false" />
     </list>
@@ -66,7 +104,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/julia/Documents/java/qa42/demoqa42",
-    "onboarding.tips.debug.path": "/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="TestNG.AlertsTests.testAlertPrompt">
@@ -233,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712854013929</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="alert prompt and scroll js">
+      <option name="closed" value="true" />
+      <created>1712855525428</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712855525428</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +291,7 @@
     <MESSAGE value="upd ConfigManager" />
     <MESSAGE value="upd elementsPage" />
     <MESSAGE value="alerts" />
-    <option name="LAST_COMMIT_MESSAGE" value="alerts" />
+    <MESSAGE value="alert prompt and scroll js" />
+    <option name="LAST_COMMIT_MESSAGE" value="alert prompt and scroll js" />
   </component>
 </project>

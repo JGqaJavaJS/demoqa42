@@ -1,6 +1,7 @@
 package pages;
 
 import config.ConfigManager;
+import io.qameta.allure.Allure;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -15,6 +16,7 @@ public class BasePage {
 
     protected WebElement findElementBase(By by) {
         System.out.println("find element by locator: " + by.toString());
+        Allure.step("find element by locator: " + by.toString());
         return config.getDriver().findElement(by);
     }
 
@@ -80,6 +82,7 @@ public class BasePage {
     }
 
     public void alertSendKeys(String str) {
+        Allure.step("get driver and switch to alert window");
         Alert alert = ConfigManager.getDriver().switchTo().alert();
         alert.sendKeys(str);
     }
