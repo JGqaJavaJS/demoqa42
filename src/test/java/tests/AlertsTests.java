@@ -41,6 +41,7 @@ public class AlertsTests extends BaseTest {
         LocalDateTime now = LocalDateTime.now();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
         String formattedDateTime = now.format(formatter);
+
         System.out.println(formattedDateTime);
         Allure.description("test alert prompt, that text add correct, date and time:  "
                 + formattedDateTime);
