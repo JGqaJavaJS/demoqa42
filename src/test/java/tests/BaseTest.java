@@ -2,10 +2,7 @@ package tests;
 
 import config.ConfigManager;
 import org.testng.asserts.SoftAssert;
-import pages.AlertsPage;
-import pages.AlertsWindowsPage;
-import pages.ElementsPage;
-import pages.MainPage;
+import pages.*;
 
 public class BaseTest extends ConfigManager {
     SoftAssert softAssert = new SoftAssert();
@@ -13,4 +10,5 @@ public class BaseTest extends ConfigManager {
     ElementsPage elementsPage = new ElementsPage();
     AlertsWindowsPage alertsWindowsPage = new AlertsWindowsPage();
     AlertsPage alertsPage = new AlertsPage();
+    SliderPage sliderPage = new SliderPage();
 }

@@ -4,63 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="alert prompt and scroll js">
-      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1ad75bf104d5eda5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8d00b2e814d4d80f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e522efb7b4ed5922.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/behaviors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/packages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/14097365-7450-4dbe-aa2d-251a3c24e47b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/35f3c78e-81fb-4d32-ae06-04a692432b4d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/43159470-f879-4dab-afdb-24ae08ac2cb5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6601b75d-fa14-41f6-8cff-b260188c984e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67cc3caf-184d-40c1-b861-6578ec92cb40-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/68822ea1-9d8a-4df7-a081-cd09ecff9fd7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7437f7b7-ec2e-4ad8-a47b-3649434b53b1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/911dee97-4a65-407e-95fe-03b3863f43a6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9c91a06f-e233-4e5e-8e9f-b513d08bf125-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/eb6909ba-84a3-484d-9a3a-77d976469da5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f4c8eb03-4da7-4e3e-8037-b58048e704ab-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f7841a8d-dd21-4f12-8fb9-38048dc6f032-container.json" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="test just a git test">
+      <change afterPath="$PROJECT_DIR$/allure-results/00030299-da9c-461e-90b7-e9ec8629955d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/415ff588-ea84-4b9d-abf0-a96757456523-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/589cd5c5-216d-4230-ac54-3f4e04f80c92-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a88208e-42c8-4d3a-932d-707216428588-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4e91a8b-b6e0-4052-bddb-0dc0785ec42b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c4a8a7bb-50de-4611-a473-6d72108cdfc4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d00727c1-50fc-4433-8780-c3ab073f6e89-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e993ac46-cb76-4512-9e64-2802f1a7ea2d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/herokkoapp/BaseTestHerokkoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/herokkoapp/TestsBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SliderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SliderTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/AlertsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +60,8 @@
     "TestNG.ElementsPageTests.textBoxTextTest.executor": "Run",
     "TestNG.ElementsPageTests.urlTest.executor": "Run",
     "TestNG.FirstTest.testElementsPage.executor": "Run",
+    "TestNG.SliderTests.sliderMoveTest.executor": "Run",
+    "TestNG.TestsBasic.rightMouseClick.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/julia/Documents/java/qa42/demoqa42",
@@ -108,7 +69,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.AlertsTests.testAlertPrompt">
+  <component name="RunManager" selected="TestNG.SliderTests.sliderMoveTest">
     <configuration name="AlertsTests.testAlert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
@@ -162,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementsPageTests.textBoxTextTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SliderTests.sliderMoveTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
         <pattern>
@@ -171,8 +132,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ElementsPageTests" />
-      <option name="METHOD_NAME" value="textBoxTextTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.SliderTests" />
+      <option name="METHOD_NAME" value="sliderMoveTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -180,17 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementsPageTests.urlTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestsBasic.rightMouseClick" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="herokkoapp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ElementsPageTests" />
-      <option name="METHOD_NAME" value="urlTest" />
+      <option name="PACKAGE_NAME" value="herokkoapp" />
+      <option name="MAIN_CLASS_NAME" value="herokkoapp.TestsBasic" />
+      <option name="METHOD_NAME" value="rightMouseClick" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -200,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SliderTests.sliderMoveTest" />
+        <item itemvalue="TestNG.TestsBasic.rightMouseClick" />
         <item itemvalue="TestNG.AlertsTests.testAlertPrompt" />
         <item itemvalue="TestNG.AlertsTests.testAlert" />
         <item itemvalue="TestNG.ElementsPageTests" />
-        <item itemvalue="TestNG.ElementsPageTests.textBoxTextTest" />
-        <item itemvalue="TestNG.ElementsPageTests.urlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712855525428</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="allure">
+      <option name="closed" value="true" />
+      <created>1713197115730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713197115730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test just a git test">
+      <option name="closed" value="true" />
+      <created>1713276747143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713276747143</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,6 +269,8 @@
     <MESSAGE value="upd elementsPage" />
     <MESSAGE value="alerts" />
     <MESSAGE value="alert prompt and scroll js" />
-    <option name="LAST_COMMIT_MESSAGE" value="alert prompt and scroll js" />
+    <MESSAGE value="allure" />
+    <MESSAGE value="test just a git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test just a git test" />
   </component>
 </project>
