@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="test just a git test">
-      <change afterPath="$PROJECT_DIR$/allure-results/00030299-da9c-461e-90b7-e9ec8629955d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/415ff588-ea84-4b9d-abf0-a96757456523-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/589cd5c5-216d-4230-ac54-3f4e04f80c92-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8a88208e-42c8-4d3a-932d-707216428588-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a4e91a8b-b6e0-4052-bddb-0dc0785ec42b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c4a8a7bb-50de-4611-a473-6d72108cdfc4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d00727c1-50fc-4433-8780-c3ab073f6e89-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e993ac46-cb76-4512-9e64-2802f1a7ea2d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/herokkoapp/BaseTestHerokkoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/herokkoapp/TestsBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SliderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SliderTests.java" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="slider and RCM">
+      <change afterPath="$PROJECT_DIR$/allure-results/0b3bc647-f1fc-4c99-a9aa-d53418439b6b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/222e5246-23d3-41d7-a1a7-1e74738a35f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6be19dad-b2aa-4fc6-9810-5ed870b311f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cf2645a8-645a-495d-9068-981ff9d52f24-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HandlersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HandlersTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
@@ -60,6 +54,7 @@
     "TestNG.ElementsPageTests.textBoxTextTest.executor": "Run",
     "TestNG.ElementsPageTests.urlTest.executor": "Run",
     "TestNG.FirstTest.testElementsPage.executor": "Run",
+    "TestNG.HandlersTests.tabSwitchTest.executor": "Run",
     "TestNG.SliderTests.sliderMoveTest.executor": "Run",
     "TestNG.TestsBasic.rightMouseClick.executor": "Run",
     "git-widget-placeholder": "main",
@@ -69,7 +64,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.SliderTests.sliderMoveTest">
+  <component name="RunManager" selected="TestNG.HandlersTests.tabSwitchTest">
     <configuration name="AlertsTests.testAlert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
@@ -106,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementsPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandlersTests.tabSwitchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +110,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ElementsPageTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="tests.HandlersTests" />
+      <option name="METHOD_NAME" value="tabSwitchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -161,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HandlersTests.tabSwitchTest" />
         <item itemvalue="TestNG.SliderTests.sliderMoveTest" />
         <item itemvalue="TestNG.TestsBasic.rightMouseClick" />
         <item itemvalue="TestNG.AlertsTests.testAlertPrompt" />
         <item itemvalue="TestNG.AlertsTests.testAlert" />
-        <item itemvalue="TestNG.ElementsPageTests" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713276747143</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="slider and RCM">
+      <option name="closed" value="true" />
+      <created>1713455631486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713455631486</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +275,7 @@
     <MESSAGE value="alert prompt and scroll js" />
     <MESSAGE value="allure" />
     <MESSAGE value="test just a git test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test just a git test" />
+    <MESSAGE value="slider and RCM" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider and RCM" />
   </component>
 </project>

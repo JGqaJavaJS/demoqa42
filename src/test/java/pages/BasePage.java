@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.List;
+import java.util.Set;
 
 public class BasePage {
 
@@ -101,5 +102,21 @@ public class BasePage {
         WebDriverWait wait = new WebDriverWait(ConfigManager.getDriver(),
                 Duration.ofSeconds(30));
         wait.until(ExpectedConditions.visibilityOfElementLocated(by));
+    }
+
+    public void waitForQuantityOfHandlers(int handlerQuantity) {
+        WebDriverWait wait = new WebDriverWait(ConfigManager.getDriver(),
+                Duration.ofSeconds(20));
+        wait.until(ExpectedConditions.numberOfWindowsToBe(handlerQuantity));
+    }
+//-------------------------------
+    public Set<String> getAllHandlers(int handlersQuantity) {
+        waitForQuantityOfHandlers(handlersQuantity);
+        return ConfigManager.getDriver().getWindowHandles();
+    }
+
+
+    public void switchToHandlerByString(String s) {
+        ConfigManager.getDriver().switchTo().window(s);
     }
 }

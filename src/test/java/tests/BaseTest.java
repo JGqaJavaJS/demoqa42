@@ -11,4 +11,5 @@ public class BaseTest extends ConfigManager {
     AlertsWindowsPage alertsWindowsPage = new AlertsWindowsPage();
     AlertsPage alertsPage = new AlertsPage();
     SliderPage sliderPage = new SliderPage();
+    HandlersPage handlersPage = new HandlersPage();
 }
