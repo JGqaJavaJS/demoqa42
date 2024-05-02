@@ -38,6 +38,14 @@ public class BasePage {
         return findElementBase(by).getText().trim();
     }
 
+    protected void clickBaseElement(WebElement element) {
+        element.click();
+    }
+
+    protected String getTextBaseElement(WebElement element) {
+        return element.getText().trim();
+    }
+
     public void jsExecutor(String str) {
         JavascriptExecutor js = (JavascriptExecutor) config.getDriver();
         js.executeScript(str);
@@ -65,6 +73,11 @@ public class BasePage {
         JavascriptExecutor js = (JavascriptExecutor) ConfigManager.getDriver();
         WebElement element = findElementBase(by);
         js.executeScript("arguments[0].scrollIntoView(true);", element);
+    }
+
+    public void jsScroll(int x, int y) {
+        JavascriptExecutor js = (JavascriptExecutor) ConfigManager.getDriver();
+        js.executeScript("window.scrollBy(" + x + "," + y +")");
     }
 
     public String getValueOfAttribute(By by, String attributeName) {
