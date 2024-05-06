@@ -4,12 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="handler">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LeftMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SelectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SelectTests.java" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="select">
+      <change afterPath="$PROJECT_DIR$/allure-results/0d9a8f76-66c1-452d-ba47-90813c8d3283-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/11b72e26-8e77-4408-8c2c-6d4176361d12-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16e9a44f-8d73-4320-ac74-3e0f33945133-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a029ea2-9d09-4d1a-81f9-817c9968d9ac-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a596d35-4a53-4955-93f8-9f4d16ffc6db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e0869a9-5149-4e2e-adc2-c660ef7f6e32-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25a5dbd5-e8f2-491e-ac42-89d1b0e661f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b8709ea-1de7-4ac5-a817-6ef83150083d-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2da8d687-d575-4503-8aa5-edff59e6d488-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/39243886-d384-4d6c-bff6-9bf8331e2d25-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/48e9a18e-f60f-46c7-ad9b-1982c65b69a7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4d4ee832-fc9e-4d2d-b955-13a5015944eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5401ef54-b62a-41fb-87cf-479bb26f6672-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57a64736-941f-47fa-af80-a6594aa1565f-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6955aea6-4a1a-4936-8108-8263c02125c5-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d2d5ce3-f31d-457a-8001-7a30c22e5d69-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9227fae3-155e-4268-93a2-3b13efae1819-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a084cadd-f6ab-4d8a-830d-bf9bdc6ee62b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abef9203-0bc9-4a1c-a362-ee4d1243e422-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3bdf649-2b82-4fc4-85dd-f9578cf9c65d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba924715-ae6f-4333-89fe-2d41f8741874-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bc28412f-4a20-48f1-946a-caf4103cd7a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c892ec6c-4f94-47a2-8698-29d9021ec998-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc373450-811e-467f-bdc2-3d7c0f2bcdba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ccefbead-09c3-4074-a9b5-9b31db90cbf8-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ddef68b3-bdbe-4c65-86ac-fc96ad7de3e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e2768999-1bf5-40d5-a5c9-849440d7089f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f38b455f-7b4a-46e8-b712-eb55b27c801c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa94c20d-70a0-4230-a9af-084f01dc6f5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdfb3775-5802-406d-8b33-eac3235ffb72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FormsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/TakeScreenshot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
     </list>
@@ -53,17 +83,20 @@
     "TestNG.ElementsPageTests.urlTest.executor": "Run",
     "TestNG.FirstTest.testElementsPage.executor": "Run",
     "TestNG.HandlersTests.tabSwitchTest.executor": "Run",
+    "TestNG.PracticeFormTests.executor": "Run",
+    "TestNG.PracticeFormTests.formTest.executor": "Run",
     "TestNG.SelectTests.executor": "Run",
+    "TestNG.SelectTests.testSelectOneForm.executor": "Run",
     "TestNG.SliderTests.sliderMoveTest.executor": "Run",
     "TestNG.TestsBasic.rightMouseClick.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/julia/Documents/java/qa42/demoqa42",
     "onboarding.tips.debug.path": "/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.SelectTests.testSelectOneForm">
+  <component name="RunManager" selected="TestNG.PracticeFormTests.formTest">
     <configuration name="HandlersTests.tabSwitchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
@@ -75,6 +108,41 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.HandlersTests" />
       <option name="METHOD_NAME" value="tabSwitchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoqa42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PracticeFormTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTests.formTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoqa42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PracticeFormTests" />
+      <option name="METHOD_NAME" value="formTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,58 +185,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SliderTests.sliderMoveTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoqa42" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SliderTests" />
-      <option name="METHOD_NAME" value="sliderMoveTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsBasic.rightMouseClick" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoqa42" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="herokkoapp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="herokkoapp" />
-      <option name="MAIN_CLASS_NAME" value="herokkoapp.TestsBasic" />
-      <option name="METHOD_NAME" value="rightMouseClick" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PracticeFormTests.formTest" />
+        <item itemvalue="TestNG.PracticeFormTests" />
         <item itemvalue="TestNG.SelectTests.testSelectOneForm" />
         <item itemvalue="TestNG.SelectTests" />
         <item itemvalue="TestNG.HandlersTests.tabSwitchTest" />
-        <item itemvalue="TestNG.SliderTests.sliderMoveTest" />
-        <item itemvalue="TestNG.TestsBasic.rightMouseClick" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -267,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713459517273</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="select">
+      <option name="closed" value="true" />
+      <created>1714669066732</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714669066732</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +327,7 @@
     <MESSAGE value="test just a git test" />
     <MESSAGE value="slider and RCM" />
     <MESSAGE value="handler" />
-    <option name="LAST_COMMIT_MESSAGE" value="handler" />
+    <MESSAGE value="select" />
+    <option name="LAST_COMMIT_MESSAGE" value="select" />
   </component>
 </project>

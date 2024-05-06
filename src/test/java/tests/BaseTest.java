@@ -14,4 +14,6 @@ public class BaseTest extends ConfigManager {
     HandlersPage handlersPage = new HandlersPage();
     LeftMenu leftMenu = new LeftMenu();
     SelectPage selectPage = new SelectPage();
+    FormsPage formsPage = new FormsPage();
+    PracticeFormPage practiceFormPage = new PracticeFormPage();
 }
