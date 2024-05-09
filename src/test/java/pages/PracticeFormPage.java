@@ -3,8 +3,11 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 import java.security.Key;
+import java.util.ArrayList;
+import java.util.List;
 
 public class PracticeFormPage extends BasePage{
 
@@ -16,6 +19,7 @@ public class PracticeFormPage extends BasePage{
 
     By inputUploadFile = By.xpath("//input[@id='uploadPicture']");
     By inputState = By.xpath("//input[@id='react-select-3-input']");
+    By inputSubjects = By.id("subjectsInput");
 
     public void fillGender(String gender) {
    //     jsScroll(0,200);
@@ -56,5 +60,16 @@ public class PracticeFormPage extends BasePage{
     public void fillState(String state) {
         findElementBase(inputState).sendKeys(state);
         findElementBase(inputState).sendKeys(Keys.ENTER);
+    }
+
+    public void fillSubjects(String[] strings) {
+        //List<Integer> list = new ArrayList<>();
+
+        WebElement element = findElementBase(inputSubjects);
+        for(String str : strings) {
+            element.click();
+            element.sendKeys(str);
+            element.sendKeys(Keys.ENTER);
+        }
     }
 }

@@ -4,44 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="select">
-      <change afterPath="$PROJECT_DIR$/allure-results/0d9a8f76-66c1-452d-ba47-90813c8d3283-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/11b72e26-8e77-4408-8c2c-6d4176361d12-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/16e9a44f-8d73-4320-ac74-3e0f33945133-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1a029ea2-9d09-4d1a-81f9-817c9968d9ac-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1a596d35-4a53-4955-93f8-9f4d16ffc6db-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1e0869a9-5149-4e2e-adc2-c660ef7f6e32-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/25a5dbd5-e8f2-491e-ac42-89d1b0e661f8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2b8709ea-1de7-4ac5-a817-6ef83150083d-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2da8d687-d575-4503-8aa5-edff59e6d488-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/39243886-d384-4d6c-bff6-9bf8331e2d25-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/48e9a18e-f60f-46c7-ad9b-1982c65b69a7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4d4ee832-fc9e-4d2d-b955-13a5015944eb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5401ef54-b62a-41fb-87cf-479bb26f6672-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/57a64736-941f-47fa-af80-a6594aa1565f-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6955aea6-4a1a-4936-8108-8263c02125c5-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d2d5ce3-f31d-457a-8001-7a30c22e5d69-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9227fae3-155e-4268-93a2-3b13efae1819-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a084cadd-f6ab-4d8a-830d-bf9bdc6ee62b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/abef9203-0bc9-4a1c-a362-ee4d1243e422-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b3bdf649-2b82-4fc4-85dd-f9578cf9c65d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ba924715-ae6f-4333-89fe-2d41f8741874-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bc28412f-4a20-48f1-946a-caf4103cd7a5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c892ec6c-4f94-47a2-8698-29d9021ec998-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cc373450-811e-467f-bdc2-3d7c0f2bcdba-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ccefbead-09c3-4074-a9b5-9b31db90cbf8-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ddef68b3-bdbe-4c65-86ac-fc96ad7de3e5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e2768999-1bf5-40d5-a5c9-849440d7089f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f38b455f-7b4a-46e8-b712-eb55b27c801c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fa94c20d-70a0-4230-a9af-084f01dc6f5e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fdfb3775-5802-406d-8b33-eac3235ffb72-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FormsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/TakeScreenshot.java" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="practice form">
+      <change afterPath="$PROJECT_DIR$/allure-results/25c64fed-b170-4c90-8b63-feb1ca6e29d2-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4dc793ac-c95c-4b4a-af49-5d064e9d8e27-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/562ce4d3-ef33-41ff-80cc-53a0e7810098-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68b0f3cf-ccd6-43e8-bb70-840625fc4f16-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a279c72-8795-4ce7-9539-d54fc2512beb-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7491decf-3eb2-4a8a-bb35-ed5a5c994068-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b97e52b6-5768-4abc-90a5-9aca948869b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df11f709-d5d6-461d-9178-8080b5e7de40-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,33 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.AlertsTests.testAlert.executor": "Run",
-    "TestNG.AlertsTests.testAlertPrompt.executor": "Run",
-    "TestNG.ElementsPageTests.executor": "Run",
-    "TestNG.ElementsPageTests.textBoxTextTest.executor": "Run",
-    "TestNG.ElementsPageTests.urlTest.executor": "Run",
-    "TestNG.FirstTest.testElementsPage.executor": "Run",
-    "TestNG.HandlersTests.tabSwitchTest.executor": "Run",
-    "TestNG.PracticeFormTests.executor": "Run",
-    "TestNG.PracticeFormTests.formTest.executor": "Run",
-    "TestNG.SelectTests.executor": "Run",
-    "TestNG.SelectTests.testSelectOneForm.executor": "Run",
-    "TestNG.SliderTests.sliderMoveTest.executor": "Run",
-    "TestNG.TestsBasic.rightMouseClick.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/julia/Documents/java/qa42/demoqa42",
-    "onboarding.tips.debug.path": "/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertsTests.testAlert.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertsTests.testAlertPrompt.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ElementsPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ElementsPageTests.textBoxTextTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ElementsPageTests.urlTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstTest.testElementsPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HandlersTests.tabSwitchTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTests.formTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTests.testSelectOneForm.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SliderTests.sliderMoveTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestsBasic.rightMouseClick.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/julia/Documents/java/qa42/demoqa42&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/julia/Documents/java/qa42/demoqa42/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.PracticeFormTests.formTest">
     <configuration name="HandlersTests.tabSwitchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
@@ -300,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714669066732</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="practice form">
+      <option name="closed" value="true" />
+      <created>1715014745752</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715014745752</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +310,7 @@
     <MESSAGE value="slider and RCM" />
     <MESSAGE value="handler" />
     <MESSAGE value="select" />
-    <option name="LAST_COMMIT_MESSAGE" value="select" />
+    <MESSAGE value="practice form" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice form" />
   </component>
 </project>

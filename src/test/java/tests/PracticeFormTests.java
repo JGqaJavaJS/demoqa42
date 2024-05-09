@@ -22,7 +22,8 @@ public class PracticeFormTests extends BaseTest{
         practiceFormPage.uploadFile("/Users/julia/Tools/1.png");
         TakeScreenshot.takeScreenShot(ConfigManager.getDriver(), "file");
 
-//        practiceFormPage.fillSubjects("Math", "English");
+        practiceFormPage.fillSubjects(new String[] {"Math", "English"});
+        TakeScreenshot.takeScreenShot(ConfigManager.getDriver(), "subjects");
 
         // fill state
         practiceFormPage.fillState("NCR");
