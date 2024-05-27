@@ -61,25 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.PracticeFormTests.formTest">
-    <configuration name="HandlersTests.tabSwitchTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoqa42" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.HandlersTests" />
-      <option name="METHOD_NAME" value="tabSwitchTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/julia/Documents/java/qa42/demoqa42/src/test/resources/testng.xml">
     <configuration name="PracticeFormTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoqa42" />
       <extension name="coverage">
@@ -150,13 +132,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/julia/Documents/java/qa42/demoqa42/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoqa42" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/julia/Documents/java/qa42/demoqa42/src/test/resources/testng.xml" />
         <item itemvalue="TestNG.PracticeFormTests.formTest" />
         <item itemvalue="TestNG.PracticeFormTests" />
         <item itemvalue="TestNG.SelectTests.testSelectOneForm" />
         <item itemvalue="TestNG.SelectTests" />
-        <item itemvalue="TestNG.HandlersTests.tabSwitchTest" />
       </list>
     </recent_temporary>
   </component>

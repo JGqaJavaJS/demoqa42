@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Test1">
+<suite name="test">
     <test name="demoqa">
         <classes>
             <class name="tests.HandlersTests">
