@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="practice form">
-      <change afterPath="$PROJECT_DIR$/allure-results/25c64fed-b170-4c90-8b63-feb1ca6e29d2-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4dc793ac-c95c-4b4a-af49-5d064e9d8e27-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/562ce4d3-ef33-41ff-80cc-53a0e7810098-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/68b0f3cf-ccd6-43e8-bb70-840625fc4f16-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6a279c72-8795-4ce7-9539-d54fc2512beb-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7491decf-3eb2-4a8a-bb35-ed5a5c994068-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b97e52b6-5768-4abc-90a5-9aca948869b8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/df11f709-d5d6-461d-9178-8080b5e7de40-container.json" afterDir="false" />
+    <list default="true" id="c7ed7a82-d7e3-4f0e-bd2e-784c53f9854b" name="Changes" comment="practice form part 2">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715014745752</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="practice form part 2">
+      <option name="closed" value="true" />
+      <created>1715267708910</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715267708910</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +310,7 @@
     <MESSAGE value="handler" />
     <MESSAGE value="select" />
     <MESSAGE value="practice form" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice form" />
+    <MESSAGE value="practice form part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice form part 2" />
   </component>
 </project>
