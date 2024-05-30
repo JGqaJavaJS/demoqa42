@@ -8,18 +8,10 @@
     <artifactId>demoqa42</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- Define the version of AspectJ -->
     <properties>
-        <aspectj.version>1.9.21</aspectj.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <allure.version>2.25.0</allure.version>
-        <selenium.version>4.1.0</selenium.version>
-        <testng.version>7.9.0</testng.version>
-        <log4j.version>2.14.1</log4j.version>
-        <groups>group1</groups>
-        <surefire.groups>group1</surefire.groups>
     </properties>
 
     <build>
@@ -39,26 +31,8 @@
                         <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
                         <!-- <suiteXmlFile>src/test/resources/testng2.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
-                    <systemProperties>
-                        <property>
-                            <name>groups</name>
-                            <value>${surefire.groups}</value>
-                        </property>
-                    </systemProperties>
-                    <argLine>
-                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-                    </argLine>
-
                 </configuration>
-                <dependencies>
-                    <dependency>
-                        <groupId>org.aspectj</groupId>
-                        <artifactId>aspectjweaver</artifactId>
-                        <version>${aspectj.version}</version>
-                    </dependency>
-                </dependencies>
             </plugin>
-
         </plugins>
     </build>
 
@@ -103,7 +77,8 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>${testng.version}</version>
+            <version>7.5.1</version>
+            <!--            <scope>test</scope>-->
         </dependency>
         <dependency>
             <groupId>io.qameta.allure</groupId>

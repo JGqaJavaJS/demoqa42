@@ -1,13 +1,12 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="test">
+<suite name="test" verbose="1">
     <test name="demoqa">
         <classes>
-            <class name="tests.HandlersTests">
+            <class name="tests.ElementsPageTests">
                 <methods>
-                    <include name="tabSwitchTest"/>
+                    <include name="urlTest"/>
                 </methods>
             </class>
         </classes>
-
     </test>
 </suite>
